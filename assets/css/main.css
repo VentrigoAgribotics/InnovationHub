@@ -3402,7 +3402,7 @@ input, select, textarea {
 		/* Style logo image inside banner */
 		#banner .logo img {
 			display: inline-block;
-			height: 2.25em;
+			height: 4em;
 			width: auto;
 			vertical-align: middle;
 		}
@@ -3514,7 +3514,7 @@ input, select, textarea {
 
 					/* Smaller logo image on small screens */
 					#banner .logo img {
-						height: 1.75em;
+						height: 3em;
 					}
 
 				#banner h2 {
